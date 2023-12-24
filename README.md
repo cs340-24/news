@@ -60,9 +60,7 @@
 # Class 1 (Jan 22)
   * Do the [first task](https://github.com/cs340-24/news/blob/master/Preliminary.md)
 
-# Lecture recordings/Zoom
-
-   - https://drive.google.com/drive/folders/
+# Lecture [recordings/Zoom](https://drive.google.com/drive/folders/15dltzv28QaDs3U5L89T5Phapq8ZMc_UV?usp=sharing)
 
    - Zoom bridge 276-644-8345
 
