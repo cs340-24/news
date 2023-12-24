@@ -1,30 +1,5 @@
-# Class March 16
-  - Finish validation and verification lecture
-  - Questions on OSS assignment
-
-# Class March 11
-  - Finish validation and verification lecture
-  - Introduce Open Source Contribution https://github.com/CS340-21/oss/
-  - Please take a look at the status of GCP assignment at
-    https://github.com/CS340-21/students/blob/master/current.md. If
-    your md file is not listed: I am still waiting for your PR. If
-    there is mothing in the second column next to your md file, that
-    means the website is not accessible or produces no output.
-  
-
-# Class March 9
-  - No lecture today: work on final projects
-
-# Class 13
-  - Questions related to Google Compute Platform
-  - Starting validation and verification lecture
-
-# Class 12
-  - Google Compute Platform
-
 # Class 11
-  - Finish [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
-  - No issue for SP2: BuddySwan adam-mcdaniel amaryans jmoor147 kerble nmize1 psherrill24 shwang6
+  - Finish [Architecture](https://github.com/cs340-24/lectures/blob/master/software_architecture.pdf)
 
 # Class 10
    - Every project needs to have 
@@ -37,24 +12,23 @@
   - Final proposals due
  
 # Class 8
-  - [Architecture](https://github.com/cs340-21/lectures/blob/master/software_architecture.pdf)
+  - [Architecture](https://github.com/cs340-24/lectures/blob/master/software_architecture.pdf)
 
 # Class 7
   - Project Proposals Presented Today, Due Feb 18
-  - [Sprints](https://github.com/cs340-21/lectures/blob/master/sprints.md)
-  - Rubric for preliminary task "Due Jan 26: Github Milestone, open an issue, and assign it to yourself. The milestone should be for the repo cs340-21/test and named netid_git, with a deadline for February 1st."
+  - [Sprints](https://github.com/cs340-24/lectures/blob/master/sprints.md)
+  - Rubric for preliminary task "Due Jan 29: Github Milestone, open an issue, and assign it to yourself. The milestone should be for the repo cs340-24/test and named netid_git, with a deadline for February 1st."
       - Is there a milestone
       - Is there an issue
       - Is issue assigned to the milestone and to yourself? 
   
 # Class 6
-  - Please add the members of your team to the group, for example, for stockfantasymarket
-     @andrew go to [your team](https://github.com/orgs/CS340-21/teams/fantasystockmarket/members?add=true) and add the remaining team members
+  - Please add the members of your team to the group
   - Software process lecture
 
 
 # Class 5
-  - [Software process lecture](https://github.com/cs340-21/lectures/blob/master/process.pdf))
+  - [Software process lecture](https://github.com/cs340-24/lectures/blob/master/process.pdf))
   
 # Project timeline 
 
@@ -75,20 +49,20 @@
      - I will create a gh team for each project and assign the first listed participant to add the remaining team members 
 
 # Class 3
-  * [Class project](https://github.com/cs340-21/lectures/blob/master/project_intro.pdf)
-  * Present teasers Please add your teaser here: https://github.com/CS340-21/teasers 
+  * [Class project](https://github.com/cs340-24/lectures/blob/master/project_intro.pdf)
+  * Present teasers Please add your teaser here: https://github.com/cs340-24/teasers 
 
 # Class 2
-  * Do the [second task](https://github.com/cs340-21/news/blob/master/Preliminary.md)
-  * Read the [lecture notes on git](https://github.com/cs340-21/lectures/blob/master/version_control.pdf)
-  * What is [software engineering?](https://github.com/cs340-21/lectures/blob/master/introduction.pdf)
+  * Do the [second task](https://github.com/cs340-24/news/blob/master/Preliminary.md)
+  * Read the [lecture notes on git](https://github.com/cs340-24/lectures/blob/master/version_control.pdf)
+  * What is [software engineering?](https://github.com/cs340-24/lectures/blob/master/introduction.pdf)
   
-# Class 1 (Jan 21)
-  * Do the [first task](https://github.com/cs340-21/news/blob/master/Preliminary.md)
+# Class 1 (Jan 22)
+  * Do the [first task](https://github.com/cs340-24/news/blob/master/Preliminary.md)
 
 # Lecture recordings/Zoom
 
-   - https://drive.google.com/drive/folders/15QyHVXBOlQUc9euj35B2c8APkorUtjw1?usp=sharing
+   - https://drive.google.com/drive/folders/
 
    - Zoom bridge 276-644-8345
 
@@ -96,10 +70,10 @@
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
-* ** TuTh  04:30PM-05:45PM Online Zoom bridge 276-644-8345 **
+* ** MWF  10:20-11:10 MK622, Online Zoom bridge 276-644-8345 **
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** David Reid
+* **TAs:** TBD
 * **Need help?**
 
 Simple rules: 
@@ -107,9 +81,9 @@ Simple rules:
 1. There are no stupid questions. However, it may be worth going over the following steps:
 1. Think of what the right answer may be.
 1. Search online: stack overflow, etc.
-     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/cs340-21/)
+     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/cs340-24/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
-1. Look through [issues](https://github.com/cs340-21/news/issues)
+1. Look through [issues](https://github.com/cs340-24/news/issues)
 1. Post the question as an issue.
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
