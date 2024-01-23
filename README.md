@@ -71,7 +71,7 @@
 * ** MWF  10:20-11:10 MK622, Online Zoom bridge 276-644-8345 **
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** TBD
+* **TAs:** McMichael, Zach [jmcmicha@vols.utk.edu](mailto:jmcmicha@vols.utk.edu) office hours - on request
 * **Need help?**
 
 Simple rules: 
