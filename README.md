@@ -62,7 +62,7 @@
 
 # Lecture [recordings/Zoom](https://drive.google.com/drive/folders/15dltzv28QaDs3U5L89T5Phapq8ZMc_UV?usp=sharing)
 
-   - Zoom bridge 276-644-8345
+   - Zoom bridge https://tennessee.zoom.us/j/89394830275
 
 
 # Syllabus for "Software Engineering"
