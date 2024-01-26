@@ -52,7 +52,7 @@
   * [Class project](https://github.com/cs340-24/lectures/blob/master/project_intro.pdf)
   * Present teasers Please add your teaser here: https://github.com/cs340-24/teasers 
 
-# Class 2
+# Class 2 (Jan 29)
   * Do the [second task](https://github.com/cs340-24/news/blob/master/Preliminary.md)
   * Read the [lecture notes on git](https://github.com/cs340-24/lectures/blob/master/version_control.pdf)
   * What is [software engineering?](https://github.com/cs340-24/lectures/blob/master/introduction.pdf)
