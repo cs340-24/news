@@ -27,28 +27,28 @@
   - Software process lecture
 
 
-# Class 5
+# Class 5 (Feb 5)
   - [Software process lecture](https://github.com/cs340-24/lectures/blob/master/process.pdf))
   
 # Project timeline 
 
 |date|activity|
 |----|---------|
-|2/4| Form teams, pick a project topic|
-|2/11| Write and present preliminary project proposal|
-|2/18| Revise project proposal|
+|2/5| Form teams, pick a project topic|
+|2/15| Write and present preliminary project proposal|
+|2/19| Revise project proposal|
 |3/4 | Design and implement a minimal viable system. Submit iteration 1 status report|
 |3/18| Iteratively improve minimal viable system. Submit iteration 2 status report|
 |4/1 |Iteratively test and refine solution. Submit iteration 3 status report|
 |4/15| Complete project implementation. Write project report and present finished project|
 
-# Class 4
+# Class 4 (Feb 2 ***Fiday ***)
   * Present teasers
      - Each teaser will be briefly presented, if anyone want to join, please speak out
      - After each teaser is presented I will ask anyone without the project team to speak out
      - I will create a gh team for each project and assign the first listed participant to add the remaining team members 
 
-# Class 3
+# Class 3 (Jan 31)
   * [Class project](https://github.com/cs340-24/lectures/blob/master/project_intro.pdf)
   * Present teasers Please add your teaser here: https://github.com/cs340-24/teasers 
 
