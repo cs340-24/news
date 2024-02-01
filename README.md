@@ -64,7 +64,6 @@
 
    - Zoom bridge https://tennessee.zoom.us/j/89394830275
 
-
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
