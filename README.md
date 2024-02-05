@@ -35,7 +35,7 @@
 |date|activity|
 |----|---------|
 |2/5| Form teams, pick a project topic|
-|2/15| Write and present preliminary project proposal|
+|2/16| Write and present preliminary project proposal|
 |2/19| Revise project proposal|
 |3/4 | Design and implement a minimal viable system. Submit iteration 1 status report|
 |3/18| Iteratively improve minimal viable system. Submit iteration 2 status report|
