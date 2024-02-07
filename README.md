@@ -11,18 +11,19 @@
   - Remaining preliminary proposal presentations
   - Final proposals due
  
-# Class 8
+# Class 8 (Feb 14)
+  - Project Proposals Presented 
   - [Architecture](https://github.com/cs340-24/lectures/blob/master/software_architecture.pdf)
 
-# Class 7
-  - Project Proposals Presented Today, Due Feb 18
+# Class 7 (Feb 12)
   - [Sprints](https://github.com/cs340-24/lectures/blob/master/sprints.md)
   - Rubric for preliminary task "Due Jan 29: Github Milestone, open an issue, and assign it to yourself. The milestone should be for the repo cs340-24/test and named netid_git, with a deadline for February 1st."
       - Is there a milestone
       - Is there an issue
       - Is issue assigned to the milestone and to yourself? 
   
-# Class 6
+# Class 6 (Feb 7)
+
   - Please add the members of your team to the group
   - Software process lecture
 
@@ -30,12 +31,12 @@
 # Class 5 (Feb 5)
   - [Software process lecture](https://github.com/cs340-24/lectures/blob/master/process.pdf))
   
-# Project timeline 
+# Project timeline (tentative)
 
 |date|activity|
 |----|---------|
 |2/5| Form teams, pick a project topic|
-|2/16| Write and present preliminary project proposal|
+|2/14| Write and present preliminary project proposal|
 |2/19| Revise project proposal|
 |3/4 | Design and implement a minimal viable system. Submit iteration 1 status report|
 |3/18| Iteratively improve minimal viable system. Submit iteration 2 status report|
