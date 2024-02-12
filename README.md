@@ -1,13 +1,13 @@
 # Class 11
   - Finish [Architecture](https://github.com/cs340-24/lectures/blob/master/software_architecture.pdf)
 
-# Class 10
+# Class 10 (Feb 21)
    - Every project needs to have 
-      - Milestone "finalize proposal" due Feb 18
+      - Milestone "finalize proposal" due Feb 19
       - Milestone "Sprint 1" due March 4
       - At least one issue assigned to each one of the team members for Sprint 1
 
-# Class 9
+# Class 9 (Feb 19)
   - Remaining preliminary proposal presentations
   - Final proposals due
  
