@@ -1,5 +1,8 @@
-# Class 11
-  - Finish [Architecture](https://github.com/cs340-24/lectures/blob/master/software_architecture.pdf)
+# Class 12 (Feb 28)
+  - How to contribute to Open Source Projects
+
+# Class 11 (Feb 26)
+  - Finish [Quality assurance](https://github.com/cs340-24/lectures/blob/master/validation_and_verification.pdfsoftware_architecture.pdf)
 
 # Class 10 (Feb 21)
    - Every project needs to have 
