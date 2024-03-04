@@ -1,5 +1,8 @@
-# Class 12 (Feb 28)
+# Class 12 (March 4)
   - How to contribute to Open Source Projects
+
+# Class 12 (Feb 28)
+  - Finish [Quality assurance](https://github.com/cs340-24/lectures/blob/master/validation_and_verification.pdfsoftware_architecture.pdf)
 
 # Class 11 (Feb 26)
   - Finish [Quality assurance](https://github.com/cs340-24/lectures/blob/master/validation_and_verification.pdfsoftware_architecture.pdf)
