@@ -1,3 +1,7 @@
+# No class (March 27)
+  - Work on OSS coontributions and final project
+
+
 # Class 12 (March 4)
   - How to contribute to Open Source Projects
 
