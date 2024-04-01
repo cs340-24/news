@@ -1,5 +1,8 @@
+# Apr 1
+  - project updates
+
 # No class (March 27)
-  - Work on OSS coontributions and final project
+  - Work on OSS contributions and final project
 
 
 # Class 12 (March 4)
