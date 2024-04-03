@@ -1,3 +1,9 @@
+# Apr 8
+  - project updates (BeRealForArt)
+    
+# Apr 3
+  - work on class projects
+
 # Apr 1
   - project updates
 
