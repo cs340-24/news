@@ -16,7 +16,8 @@
 
 # April 29
   - ClassMate
-  - 
+  - 2DGame
+   
 # Apr 22
   - project updates
 
