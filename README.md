@@ -9,7 +9,6 @@
     
 # May 3
   - Textbook AI
-  - Pomodoro Timer
   - BeRealForArt
   - BugHouse
 
@@ -17,6 +16,7 @@
   - Color sort
   - HeavilyArmedPenguins
   - LiteLib
+  - Pomodoro Timer
 
 # April 29
   - ClassMate
