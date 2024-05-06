@@ -1,6 +1,7 @@
 # Final report due on Final exam day: May 9
   - full description is in the lectures folder
   - Also, mention if/how you used major quality improvement techniques, namely static analysis, testing and code reviews in your project
+  - Please make sure your presentation (if not an md file) is uploaded to you project repo
 
 # May 6
   - GameGenie
