@@ -12,6 +12,8 @@
   - Textbook AI
   - BeRealForArt
   - BugHouse
+  - Gamesense
+  - 2D Game
 
 # May 1
   - Color sort
@@ -22,10 +24,15 @@
 # April 29
   - ClassMate
   - 2DGame
-   
-# Apr 22
-  - project updates
 
+# Apr 24
+  - Potentially final project presentations
+
+
+# Apr 22
+  - work on class projects
+
+    
 # Apr 8
   - project updates (BeRealForArt)
     
