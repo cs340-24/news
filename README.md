@@ -20,10 +20,12 @@
   - HeavilyArmedPenguins
   - LiteLib
   - Pomodoro Timer
+  - GreatReads
 
 # April 29
   - ClassMate
   - 2DGame
+  - LeeterBoard
 
 # Apr 24
   - Potentially final project presentations
